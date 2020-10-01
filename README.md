@@ -18,7 +18,7 @@
 
 I'm a .Net Developer from Brazil 💚
 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
+* 💫 Always **learning**
 
 ----
 
