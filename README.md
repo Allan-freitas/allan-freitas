@@ -19,8 +19,6 @@
 I'm a .Net Developer from Brazil 💚
 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
 
 ----
 
@@ -39,3 +37,6 @@ I'm a .Net Developer from Brazil 💚
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
 ![Allansud GitHub Stats](https://github-readme-stats.vercel.app/api?username=allansud&show_icons=true)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=allansud&layout=compact)](https://github.com/allansud/github-readme-stats)
+
