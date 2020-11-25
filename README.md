@@ -1,5 +1,8 @@
 ### 👋 Hello there, I'm Allan! 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=allansud.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/allansud?style=social)
+
 <a target="_blank" href="https://www.linkedin.com/in/allan-freitas-a43b3247/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
