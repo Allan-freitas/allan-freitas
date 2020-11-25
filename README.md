@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Allan! 
+## 👋 Hello there, I'm Allan! 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=allansud.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/allansud?style=social)
@@ -46,7 +46,7 @@ I'm a .Net Developer from Brazil 💚
 
 </p>
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
 ## ⭐ GitHub Stats
 
@@ -54,4 +54,10 @@ I'm a .Net Developer from Brazil 💚
   <img src = "https://github-readme-stats.vercel.app/api?username=allansud&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=allansud&hide=css,java,html&theme=tokyonight">
 </p>
+
+## 🎯 Let's Keep in Touch and Follow me 
+
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Allansud)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-freitas-a43b3247/)
+
 
