@@ -50,7 +50,7 @@ I'm a .Net Developer from Brazil 💚
    
 ## ⭐ GitHub Stats
 
-<p align = "center">
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=allansud&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=allansud&hide=css,java,html&theme=tokyonight">
 </p>
