@@ -52,6 +52,8 @@ I'm a .Net Developer from Brazil 💚
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=allansud&hide=css,java,html&theme=tokyonight">
 </p>
 
+## 🎮 🕹 Games
+
 ## 🎯 Let's Keep in Touch and Follow me 
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Allansud)
