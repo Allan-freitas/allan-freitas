@@ -1,7 +1,7 @@
 ## 👋 Hello there, I'm Allan! 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=allansud.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/allansud?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=allan-freitas.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/allan-freitas?style=social)
 
 <a target="_blank" href="https://www.linkedin.com/in/allan-freitas-a43b3247/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,7 +9,7 @@
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511991355818">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/allansud/">
+<a target="_blank" href="https://www.instagram.com/allan-freitas/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="mailto:freitasallan@gmail.com">
