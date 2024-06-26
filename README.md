@@ -1,6 +1,6 @@
 ## 👋 Hello there, I'm Allan! 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=allan-freitass.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=allan-freitas.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/allan-freitas?style=social)
 
 <a target="_blank" href="https://www.linkedin.com/in/allan-freitas-a43b3247/">
